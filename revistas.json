@@ -1,12 +1,16 @@
-{
-   "assinatura": {
-      "link": "https://link-da-sua-assinatura.com",
-      "preco": "R$ 19,90"
-   },
-   "edicoes": {
-      "titulo": "Revista 321! - Edição de Janeiro",
-      "descricao": "Nesta edição: 50 novos desafios de lógica nível expert e dicas de resolução.",
-      "capa": "link-da-imagem.jpg",
-      "link": "https://link-da-revista.pdf"
-   }
+﻿{
+  "mensais": [
+    { "titulo": "Edição de Janeiro 2024", "link": "https://seu-link-aqui.com/jan24" },
+    { "titulo": "Edição de Fevereiro 2024", "link": "https://seu-link-aqui.com/fev24" }
+  ],
+  "assinatura": {
+    "link": "https://seu-link-de-assinatura.com",
+    "beneficios": [
+      "Revistas Semanais exclusivas",
+      "Dicas e Truques avançados",
+      "Vídeos explicativos de técnicas",
+      "Análise detalhada de partidas",
+      "Ranking Global Completo e Detalhado"
+    ]
+  }
 }
